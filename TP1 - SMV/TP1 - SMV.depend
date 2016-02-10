@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1367042826 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP1/TP1 - SMV/arvoreB.c
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1367090353 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP1/TP1 - SMV/estruturas.h
+	<stdlib.h>
+	<stdio.h>
+
+1367042270 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP1/TP1 - SMV/fila.c
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1367188610 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP1/TP1 - SMV/main.c
+	<stdlib.h>
+	<stdio.h>
+	"estruturas.h"
+
+1367188591 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP1/TP1 - SMV/smv.c
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+
